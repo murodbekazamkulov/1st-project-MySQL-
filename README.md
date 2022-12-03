@@ -1,2 +1,3 @@
-# 1st-project-MySQL-
-Any data
+Covid_case Project
+Data Analyzing_MySQL 
+Vizualization_Tableau
